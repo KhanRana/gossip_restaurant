@@ -1,6 +1,6 @@
 # Dine & Gossip
 
-![Dine & Gossip](documentation/readme/banner.png)
+![Dine & Gossip](documentation/pages/responsive.png)
 
 Dine & Gossip is restaurant table booking system website built using Django, Python, HTML, CSS and JavaScript.
 
@@ -215,7 +215,7 @@ The sign in page provides inputs for a user to enter their username/email togeth
 
 When a user selects the logs out, logout out page will be shown with a login link should the user wish to log back in.
 
-![Sign Out Page Screenshot](documentation/pages/logout.png)
+![Sign Out Page Screenshot](documentation/pages/logged_out.png)
 
 ### Accessibility
 
@@ -242,7 +242,7 @@ HTML, CSS, JavaScript, Python
 
 PostgreSQL for development and deployment.
 
-[Railway](https://railway.app/) .
+[Railway](https://railway.app/)
 
 ### Frameworks Used
 
@@ -319,12 +319,12 @@ PostgreSQL for development and deployment.
 
 5. Save, add, commit and push these changes.
 
-### Deplyment
-1. Cloudinary Storage for images  ![Cloudinary](https://cloudinary.com/)
+### Deployment
+1. Cloudinary Storage for images  [Cloudinary](https://cloudinary.com/)
 
-2. Railway App for database Storage ![Databse](https://railway.app/)
+2. Railway App for database Storage [Database](https://railway.app/)
 
-3. Heroku for hosting the website ![Heroku](https://heroku.com/apps/gossip-dining/)
+3. Heroku for hosting the website [Heroku](https://heroku.com/apps/gossip-dining/)
 
 
 #### **Features for next version**
